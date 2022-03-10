@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    background-color: pink;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+  
+}
+
+.col-izq{
+    
+    width: 50%;
+    padding-right: 30px;
+}
+
+.col-der{
+    
+    width: 50%;
+}
+
+.img-profile{
+  width: 100%;
+}
+
+.section-item{
+    background-color: pink;
+}
